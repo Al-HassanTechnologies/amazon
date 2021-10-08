@@ -1,3 +1,7 @@
-./.classpath
-./.projects
-./nodes_modules/
+.classpath
+.projects
+/nodes_modules
+.newclasspath
+.newprojects
+/newnode_modules
+
