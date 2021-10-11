@@ -1,3 +1,3 @@
 Hi 
 I am just exploring
-Added the code after commiting
+Editing in master branch . Added the code after commiting
